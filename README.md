@@ -13,3 +13,6 @@ to this (note that the load image(base 64) and websocket must be the one in exte
 ![屏幕截图 2025-02-19 213212](https://github.com/user-attachments/assets/b64d0078-483c-4e8d-93e8-30418445a590)
 
 and export the workflow as api
+
+#### A probab TD workflow you may used
+![Uploading 屏幕截图 2025-02-19 214839.png…]()
