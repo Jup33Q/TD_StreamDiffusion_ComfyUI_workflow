@@ -7,3 +7,9 @@ This is a Comfyui friendly sample workflow connects TD and StreamDiffusion, tota
 ##### and Jesen's comfyui-stream diffusion: https://github.com/jesenzhang/ComfyUI_StreamDiffusion
 
 #### All I did is just mix those up 
+basicly I just slightly change the sample workflow from Jesen 
+![workflow](https://github.com/user-attachments/assets/14c384cd-39c6-41a8-a26d-1b2eea6c8a94)
+to this (note that the load image(base 64) and websocket must be the one in external_tooling installed following Jisen's tutorial )
+![屏幕截图 2025-02-19 213212](https://github.com/user-attachments/assets/b64d0078-483c-4e8d-93e8-30418445a590)
+
+and export the workflow as api
